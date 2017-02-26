@@ -1,0 +1,12 @@
+#   KIRBY   #
+#############
+
+# CACHE #
+#########
+__pycache__
+.idea
+
+# OS #
+######
+.DS_Store
+.DS_Store?
